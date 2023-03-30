@@ -1,7 +1,1 @@
-- 👋 oi, eu me chamo @AnaAlves2022
-- 👀 meu insta @v7_ana
-- 🌱 email: anaangelicamedeiros01@gmail.com
-- 💞️ Estou no primeiro ano do Ensino Medio
-- Vou cursar Medcina na Uem em Maringá
-- meu Facebook: Ana Alves
---->niver 28/01/07
+
